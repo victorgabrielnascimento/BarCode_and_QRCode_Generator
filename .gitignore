@@ -1,2 +1,5 @@
 # ignore file named 'testqr.py'
 testqr.py
+
+#ignore fale named '.gitignore'
+.gitignore
