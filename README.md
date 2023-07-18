@@ -46,7 +46,7 @@
    <h2>Open the project file at VSCode</h2>
    <br>
 
-   <p>Now all you need is execute the program, be free to change the list!</p>
+  <p>Now all you need is execute the program, be free to change the list!</p>
 
 ![image](https://github.com/victorgabrielnascimento/BarCode_and_QRCode_Generator/assets/105366808/b4b69161-3da0-47c6-aa40-651aec0ed970)
 
